@@ -8,5 +8,5 @@ You need four files , better put them in one folder for easier imports:
   - config.js
   - import.js
 
-run npm i node-firestore-import-export
+run npm i node-firestore-import-export.
 Finally , run node import.js

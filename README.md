@@ -7,3 +7,5 @@ You need four files :
   - your json database file
   - config.js
   - import.js
+  
+Finally , run node import.js
